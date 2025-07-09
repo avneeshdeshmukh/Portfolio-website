@@ -6,7 +6,7 @@ export default function Hero() {
 
         <section className="min-h-screen flex flex-col justify-center items-center text-center px-6 bg-gradient-to-b from-[#2A2A2A] to-[#121212] ">
             <h1 data-aos="fade-left" className="text-4xl text-white md:text-6xl font-bold mb-4">
-                👋 Hi, I’m <span className="text-[#9370db]">Avneesh Deshmukh</span>
+                👋 Hi, I&apos;m <span className="text-[#9370db]">Avneesh Deshmukh</span>
             </h1>
             <h2 data-aos="fade-left" className="text-lg md:text-xl text-gray-600 max-w-xl mb-6">
                 I&apos;m a Software Engineer, based in Pune.

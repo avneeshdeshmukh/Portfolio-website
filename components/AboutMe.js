@@ -20,7 +20,7 @@ export default function AboutMe() {
                         I&apos;m a passionate and detail-oriented software engineer with hands-on experience in performance-critical systems and production-grade tools. I recently completed a year-long internship at <strong>PTC Software India</strong>, where I worked on <em>Creo</em>, a world-class 3D CAD modeling solution, contributing to its core geometry modules using C and C++.
                     </p>
                     <p className="text-gray-400 mb-4">
-                        I enjoy solving deep technical challenges, especially in systems that demand reliability, speed, and precision. From multithreaded debugging to low-level optimization, I'm driven by the impact thoughtful code can have in real-world applications.
+                        I enjoy solving deep technical challenges, especially in systems that demand reliability, speed, and precision. From multithreaded debugging to low-level optimization, I&apos;m driven by the impact thoughtful code can have in real-world applications.
                     </p>
                     <p className="text-gray-400 mb-4">
                         Beyond C++, I&apos;ve worked across the stack using tools like <strong>Django, React.js, Next.js,</strong> and <strong>Firebase</strong>, and I actively apply Agile methodologies, version control, and test-driven development in my workflow.
