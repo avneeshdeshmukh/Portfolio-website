@@ -45,7 +45,7 @@ export default function AboutMe() {
                             <h4 className="text-lg font-semibold">Software Development Intern — PTC Software India</h4>
                             <p className="text-sm text-gray-400">July 2024 – June 2025</p>
                             <p className="mt-2 text-gray-400 text-sm">
-                                Contributed to Creo's core C++ geometry modules, resolved critical modeling bugs, and optimized performance in large-scale CAD systems.
+                                Contributed to Creo&apos;s core C++ geometry modules, resolved critical modeling bugs, and optimized performance in large-scale CAD systems.
                             </p>
                         </div>
                     </div>
