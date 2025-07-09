@@ -17,19 +17,19 @@ export default function AboutMe() {
                 <div data-aos="fade-left">
                     <h2 className="text-3xl font-bold mb-4">About Me</h2>
                     <p className="text-gray-400 mb-4">
-                        I'm a passionate and detail-oriented software engineer with hands-on experience in performance-critical systems and production-grade tools. I recently completed a year-long internship at <strong>PTC Software India</strong>, where I worked on <em>Creo</em>, a world-class 3D CAD modeling solution, contributing to its core geometry modules using C and C++.
+                        I&apos;m a passionate and detail-oriented software engineer with hands-on experience in performance-critical systems and production-grade tools. I recently completed a year-long internship at <strong>PTC Software India</strong>, where I worked on <em>Creo</em>, a world-class 3D CAD modeling solution, contributing to its core geometry modules using C and C++.
                     </p>
                     <p className="text-gray-400 mb-4">
                         I enjoy solving deep technical challenges, especially in systems that demand reliability, speed, and precision. From multithreaded debugging to low-level optimization, I'm driven by the impact thoughtful code can have in real-world applications.
                     </p>
                     <p className="text-gray-400 mb-4">
-                        Beyond C++, I’ve worked across the stack using tools like <strong>Django, React.js, Next.js,</strong> and <strong>Firebase</strong>, and I actively apply Agile methodologies, version control, and test-driven development in my workflow.
+                        Beyond C++, I&apos;ve worked across the stack using tools like <strong>Django, React.js, Next.js,</strong> and <strong>Firebase</strong>, and I actively apply Agile methodologies, version control, and test-driven development in my workflow.
                     </p>
                     <p className="text-gray-400 mb-4">
-                        I'm currently looking for opportunities to grow as an engineer — building tools, contributing to products, and collaborating in high-performance environments.
+                        I&apos;m currently looking for opportunities to grow as an engineer — building tools, contributing to products, and collaborating in high-performance environments.
                     </p>
                     <Link href="#connect" className="inline-block mt-4 bg-white text-black px-5 py-2 rounded-full font-semibold hover:bg-gray-200 transition">
-                        Let’s connect
+                        Let&apos;s connect
                     </Link>
 
                 </div>

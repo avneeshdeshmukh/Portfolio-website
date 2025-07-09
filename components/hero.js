@@ -9,7 +9,7 @@ export default function Hero() {
                 👋 Hi, I’m <span className="text-[#9370db]">Avneesh Deshmukh</span>
             </h1>
             <h2 data-aos="fade-left" className="text-lg md:text-xl text-gray-600 max-w-xl mb-6">
-                I'm a Software Engineer, based in Pune.
+                I&apos;m a Software Engineer, based in Pune.
             </h2>
 
             <div data-aos="fade-right" className="flex gap-4 flex-wrap justify-center">
