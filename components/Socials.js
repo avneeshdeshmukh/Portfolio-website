@@ -10,7 +10,7 @@ export default function Socials() {
 
     return (
         <section id="connect" className="bg-[#181818] bg-opacity-10 bg-[url('/grid/charlie-brown.svg')] bg-repeat  py-20 px-6 border-t border-neutral-800">
-            <h2 className="text-4xl font-bold text-white ms-10 mb-10">Connect</h2>
+            <h2 className="text-4xl font-bold text-white ms-10 mb-10">Connect With Me</h2>
             {/* Centered form */}
             <div data-aos="flip-up" className="flex ms-10 mb-10">
                 <form
@@ -18,7 +18,6 @@ export default function Socials() {
                     method="POST"
                     className="max-w-xl w-full space-y-6 bg-[#1f1f1f] p-8 rounded-2xl shadow-xl border border-[#2a2a2a]"
                 >
-                    <h2 className="text-2xl font-bold text-white">Let&apos;s get in touch</h2>
 
                     <div>
                         <label htmlFor="name" className="block text-gray-400 mb-1">Name</label>
